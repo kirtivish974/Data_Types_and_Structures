@@ -1,26 +1,48 @@
-# Data_Types_and_Structures
-A complete Python guide to data types and structures. Includes strings, lists, tuples, sets, dictionaries, with practical code on mutability, data access, sorting, hashing, and random generation—perfect for learners and coding practice.
+🐍 Python Data Types & Structures
 
-Learning Goals
+Learn Python data types & structures with hands-on examples! Includes strings, lists, tuples, sets, dictionaries, plus mutability, hashing, sorting, and random generation. Perfect for learners, interview prep, and real-world coding.
 
-Understand mutability vs immutability and when to use each.
+🎯 Learning Goals
 
-Choose the right structure for speed, readability, and memory.
+🔄 Mutability vs immutability – know when to use each
 
-Apply hashing concepts in dictionaries and sets.
+⚡ Choose structures for speed, readability, memory
 
-Practice common operations used in interviews and real projects.
+🗝️ Apply hashing in dictionaries & sets
 
-What's Inside
+💻 Practice common operations for interviews & projects
 
-Strings: slicing, case methods, immutability, and common operations.
+📦 Contents
+✨ Strings
 
-Lists: creation, indexing, append/remove, reverse, sort, and list vs tuple.
+Slicing, indexing, case methods
 
-Tuples: immutability, indexing, safe constants, and dictionary keys.
+Immutability & common operations
 
-Sets: uniqueness, union, intersection, difference, and membership.
+📋 Lists
 
-Dictionaries: key–value storage, hashing, updates, removals, lookups.
+Creation, indexing, append/remove, reverse, sort
 
-Random data: generate and sort random lists for practice tasks.
+Differences between list & tuple
+
+🔒 Tuples
+
+Immutable sequences & indexing
+
+Safe constants & dictionary keys
+
+🔗 Sets
+
+Uniqueness, union, intersection, difference
+
+Membership checks
+
+🗂️ Dictionaries
+
+Key–value storage, updates, removals, lookups
+
+Practical hashing examples
+
+🎲 Random Data
+
+Generate & sort random lists for practice
